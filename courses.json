@@ -1,0 +1,99 @@
+[
+    {"course_code": "ENG 1011", "course_name": "Intensive English I", "exam day" :"Day 1 T1" },
+    {"course_code": "ENG 1013", "course_name": "Intensive English II", "exam day":"Day 1 T2"},
+    
+    {"course_code": "SOC 2101", "course_name": "Society, Environment and Engineering Ethics","exam day":"Day 1 T3"},
+    {"course_code": "PMG 4101", "course_name": "Project Management", "exam day":"Day 3 T2"},
+    {"course_code": "BDS 1201", "course_name": "History of the Emergence of Bangladesh"},
+  
+    {"course_code": "ECO 4101", "course_name": "Economics"},
+    {"course_code": "SOC 4101", "course_name": "Introduction to Sociology"},
+    {"course_code": "ACT 2111", "course_name": "Financial and Managerial Accounting"},
+    {"course_code": "IPE 3401", "course_name": "Industrial and Operational Management"},
+    {"course_code": "TEC 2499", "course_name": "Technology Entrepreneurship"},
+    {"course_code": "PSY 2101", "course_name": "Psychology"},
+    {"course_code": "BDS 2201", "course_name": "Bangladesh Studies"},
+    {"course_code": "BAN 2501", "course_name": "Bangla"},
+  
+    {"course_code": "PHY 2105", "course_name": "Physics"},
+    {"course_code": "PHY 2106", "course_name": "Physics Laboratory"},
+    {"course_code": "BIO 3105", "course_name": "Biology for Engineers"},
+  
+    {"course_code": "MATH 1151", "course_name": "Fundamental Calculus"},
+    {"course_code": "MATH 2183", "course_name": "Calculus and Linear Algebra"},
+    {"course_code": "MATH 2201", "course_name": "Coordinate Geometry and Vector Analysis"},
+    {"course_code": "MATH 2205", "course_name": "Probability and Statistics"},
+  
+    {"course_code": "EEE 2113", "course_name": "Electrical Circuits"},
+    {"course_code": "EEE 2123", "course_name": "Electronics"},
+    {"course_code": "EEE 2124", "course_name": "Electronics Laboratory"},
+    {"course_code": "EEE 4261", "course_name": "Green Computing"},
+  
+    {"course_code": "CSE 1110", "course_name": "Introduction to Computer Systems"},
+    {"course_code": "CSE 1111", "course_name": "Structured Programming Language"},
+    {"course_code": "CSE 1112", "course_name": "Structured Programming Language Laboratory"},
+    {"course_code": "CSE 1115", "course_name": "Object Oriented Programming"},
+    {"course_code": "CSE 1116", "course_name": "Object Oriented Programming Laboratory"},
+    {"course_code": "CSE 2118", "course_name": "Advanced Object Oriented Programming Lab"},
+  
+    {"course_code": "CSE 4165", "course_name": "Web Programming"},
+    {"course_code": "CSE 4181", "course_name": "Mobile Application Development"},
+  
+    {"course_code": "CSE 1325", "course_name": "Digital Logic Design"},
+    {"course_code": "CSE 1326", "course_name": "Digital Logic Design Laboratory"},
+    {"course_code": "CSE 3313", "course_name": "Computer Architecture"},
+    {"course_code": "CSE 4325", "course_name": "Microprocessors and Microcontrollers"},
+    {"course_code": "CSE 4326", "course_name": "Microprocessors and Microcontrollers Laboratory"},
+  
+    {"course_code": "CSE 2213", "course_name": "Discrete Mathematics"},
+    {"course_code": "CSE 2215", "course_name": "Data Structure and Algorithms I"},
+    {"course_code": "CSE 2216", "course_name": "Data Structure and Algorithms I Laboratory"},
+    {"course_code": "CSE 2217", "course_name": "Data Structure and Algorithms II"},
+    {"course_code": "CSE 2218", "course_name": "Data Structure and Algorithms II Laboratory"},
+    {"course_code": "CSE 2233", "course_name": "Theory of Computation"},
+  
+    {"course_code": "CSE 3411", "course_name": "System Analysis and Design"},
+    {"course_code": "CSE 3412", "course_name": "System Analysis and Design Laboratory"},
+    {"course_code": "CSE 3421", "course_name": "Software Engineering"},
+    {"course_code": "CSE 3422", "course_name": "Software Engineering Laboratory"},
+  
+    {"course_code": "CSE 4531", "course_name": "Computer Security"},
+    {"course_code": "CSE 3521", "course_name": "Database Management Systems"},
+    {"course_code": "CSE 3522", "course_name": "Database Management Systems Laboratory"},
+    {"course_code": "CSE 4509", "course_name": "Operating Systems"},
+    {"course_code": "CSE 4510", "course_name": "Operating Systems Laboratory"},
+    {"course_code": "CSE 3711", "course_name": "Computer Networks"},
+    {"course_code": "CSE 3712", "course_name": "Computer Networks Laboratory"},
+    {"course_code": "CSE 3811", "course_name": "Artificial Intelligence"},
+    {"course_code": "CSE 3812", "course_name": "Artificial Intelligence Laboratory"},
+  
+    {"course_code": "CSE 4601", "course_name": "Mathematical Analysis for Computer Science"},
+    {"course_code": "CSE 4633", "course_name": "Basic Graph Theory"},
+    {"course_code": "CSE 4655", "course_name": "Algorithm Engineering"},
+    {"course_code": "CSE 4611", "course_name": "Compiler Design"},
+    {"course_code": "CSE 4613", "course_name": "Computational Geometry"},
+    {"course_code": "CSE 4621", "course_name": "Computer Graphics"},
+  
+    {"course_code": "CSE 3715", "course_name": "Data Communication"},
+    {"course_code": "CSE 4759", "course_name": "Wireless and Cellular Communication"},
+    {"course_code": "CSE 4793", "course_name": "Advanced Network Services and Management"},
+    {"course_code": "CSE 4783", "course_name": "Cryptography"},
+    {"course_code": "CSE 4777", "course_name": "Networks Security"},
+    {"course_code": "CSE 4763", "course_name": "Electronic Business"},
+  
+    {"course_code": "CSE 4547", "course_name": "Multimedia Systems Design"},
+    {"course_code": "CSE 4519", "course_name": "Distributed Systems"},
+    {"course_code": "CSE 4523", "course_name": "Simulation and Modeling"},
+    {"course_code": "CSE 4521", "course_name": "Computer Graphics"},
+    {"course_code": "CSE 4587", "course_name": "Cloud Computing"},
+    {"course_code": "CSE 4567", "course_name": "Advanced Database Management Systems"},
+  
+    {"course_code": "CSE 4889", "course_name": "Machine Learning"},
+    {"course_code": "CSE 4891", "course_name": "Data Mining"},
+    {"course_code": "CSE 4893", "course_name": "Introduction to Bioinformatics"},
+    {"course_code": "CSE 4883", "course_name": "Digital Image Processing"},
+    {"course_code": "CSE 4817", "course_name": "Big Data Analytics"},
+  
+    {"course_code": "URC 1103", "course_name": "Life Skills for Success"}
+  ]
+  
